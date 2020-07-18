@@ -1,0 +1,1 @@
+# CoronaPrinter-Slic3rConfig
